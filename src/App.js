@@ -40,7 +40,7 @@ function App() {
         <div className={styles.bannerContent}>
           <div className={styles.profileImageContainer}>
             <img
-              src="/imad.png"
+              src="/Imad.png"
               alt="Imad Nasser"
               className={styles.profileImage}
             />
