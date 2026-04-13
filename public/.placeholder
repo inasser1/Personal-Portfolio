@@ -1,0 +1,8 @@
+Place your profile photo here as "profile.jpg"
+
+The image should be:
+- Around 500x500 pixels or larger (square aspect ratio)
+- Named "profile.jpg" (or update the reference in app/page.js)
+- In JPG or PNG format
+
+If you don't have a photo yet, the gradient placeholder with your initial "I" will be shown.
